@@ -13,15 +13,15 @@ export default function Body() {
         .then((data) => setData(data))
     }, []);
 
-    // .split('-').reverse().join('/')
-
     return (
         <View style={styles.container}>
 
                 <View style={styles.imgBox}>
-                    {data.hdurl ? <Image source={{uri: data.hdurl}} style={styles.imgApi} /> 
+                    {
+                    data.hdurl ? <Image source={{uri: data.hdurl}} style={styles.imgApi} /> 
                     : 
-                    <Text style={styles.loading}>Carregando...</Text>}
+                    <Text style={styles.loading}>Carregando...</Text>
+                    }
                 </View>
 
                 <View style={styles.texts}>
@@ -52,7 +52,9 @@ const styles = StyleSheet.create({
     },
     loading: {
         color: 'white',
-        fontSize: 24
+        fontSize: 24,
+        fontWeight: 200,
+        marginTop: 100
     },
     texts: {
         padding: 30
