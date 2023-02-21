@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "nasa-project",
-    "slug": "nasa-project",
+    "name": "Nasa Daily API Photo",
+    "slug": "nasa-daily-api-photo",
+    "description": "Contemple fotos incríveis do nosso universo diariamente",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
