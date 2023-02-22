@@ -1,4 +1,4 @@
-# NASA Daily API Photo
+# NASA Daily API Photo 🔭
 
 O projeto mobile foi desenvolvido em React Native utilizando a API APOD (Astronomy Picture of the Day) da Nasa, que cada dia posta uma nova foto do nosso universo.
 Meu objetivo com esta aplicação foi para praticar o trabalho com API's, sendo algo de extrema importância e utilidade no dia a dia de um desenvolvedor.
@@ -11,10 +11,10 @@ No curto período de tempo que os dados estão sendo "puxados" da API, fica vis�
 ## Imagens
 
 Tela inicial do app:
-![splash](https://user-images.githubusercontent.com/76922943/220505426-b28045d0-f431-47d7-9817-8be837482283.png)
+![splashh](https://user-images.githubusercontent.com/76922943/220508271-d15a57f8-7f8f-49ee-9509-2e63f50a04b7.png)
 
 Tela principal do app:
-![Screenshot_1677032474](https://user-images.githubusercontent.com/76922943/220505352-8e7d18db-67fa-4713-9391-5e26d92250dc.png)
+![cap](https://user-images.githubusercontent.com/76922943/220508322-e4393d4f-fe21-4e95-9c88-78844332ecc8.png)
 
 ## Features
 
