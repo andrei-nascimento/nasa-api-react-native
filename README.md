@@ -10,11 +10,7 @@ No curto período de tempo que os dados estão sendo "puxados" da API, fica vis�
 
 ## Imagens
 
-Tela inicial do app:
-![splashh](https://user-images.githubusercontent.com/76922943/220508271-d15a57f8-7f8f-49ee-9509-2e63f50a04b7.png)
-
-Tela principal do app:
-![cap](https://user-images.githubusercontent.com/76922943/220508322-e4393d4f-fe21-4e95-9c88-78844332ecc8.png)
+![nasinha](https://user-images.githubusercontent.com/76922943/220511799-9b67b25e-82bf-4f33-9649-b618d88898b3.png)
 
 ## Features
 
